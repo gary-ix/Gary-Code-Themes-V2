@@ -27,19 +27,19 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Vim Dark 5b",
+				"label": "Vimiss Dark 5b",
 				"uiTheme": "vs-dark",
 				"path": "./themes/vim-dark-5b.json"
 			},
 			{
-				"label": "Atomic Gray",
+				"label": "Atomic 1",
 				"uiTheme": "vs-dark",
-				"path": "./themes/atomic-gray.json"
+				"path": "./themes/atomic-1.json"
 			},
 			{
-				"label": "Atomic Gray - alt",
+				"label": "Atomic 1b",
 				"uiTheme": "vs-dark",
-				"path": "./themes/atomic-gray-alt.json"
+				"path": "./themes/atomic-1b.json"
 			}
 		]
 	},
