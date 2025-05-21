@@ -2,7 +2,7 @@
 	"name": "gary-vscode-themes-v2",
 	"displayName": "Gary Code Themes V2",
 	"description": "Themes inspired from others, but with a few twists.",
-	"publisher": "gary-ix",
+	"publisher": "theprogrammergary",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.45.0"
@@ -46,7 +46,7 @@
 	"__metadata": {
 		"id": "dedaafbd-ef32-4526-a878-d0cb8ed99c81",
 		"publisherId": "1b42aca5-6f70-4c44-9072-448bad4db0e2",
-		"publisherDisplayName": "gary-ix",
+		"publisherDisplayName": "theprogrammergary",
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
 		"isPreReleaseVersion": false,
