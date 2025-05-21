@@ -903,7 +903,7 @@
     "list.errorForeground": "#fb4934",
     "sideBar.background": "#38494a",
     "sideBar.foreground": "#d5c4a1",
-    "sideBar.border": "#29343b",
+    "sideBar.border": "#38494a",
     "sideBarTitle.foreground": "#F4F0E6",
     "sideBarSectionHeader.background": "#29343b",
     "sideBarSectionHeader.foreground": "#F4F0E6",
