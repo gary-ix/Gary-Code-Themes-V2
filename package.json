@@ -3,7 +3,7 @@
 	"displayName": "Gary Code Themes V2",
 	"description": "Themes inspired from others, but with a few twists.",
 	"publisher": "theprogrammergary",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.45.0"
 	},
@@ -27,7 +27,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Vimiss Dark 5b",
+				"label": "Vimish Dark 5b",
 				"uiTheme": "vs-dark",
 				"path": "./themes/vim-dark-5b.json"
 			},
